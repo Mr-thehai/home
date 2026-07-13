@@ -4,7 +4,7 @@
 
 一个现代化的个人主页，采用 Vue 3 + 深色科技主题设计。
 
-**预览地址：** [https://wexuo.github.io/home](https://wexuo.github.io/home)
+**预览地址：** [https://quietseek.github.io/home](https://quietseek.github.io/home)
 
 ## 特性
 
